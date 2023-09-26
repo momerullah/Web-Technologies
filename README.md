@@ -3,6 +3,11 @@
 This project is a part of Homework 1 for CSC 436: Web Applications. The homework is split into two main parts:
 
 ### Part 1: HTML Using Bootstrap
+
+To Load the JS and CSS components:
+
+### `npm start`
+
 In this part, a simple HTML personal biography page has been created using Bootstrap. The biography page makes use of Bootstrap CSS styling and contains:
 - A brief introduction and biography.
 - A responsive image.
