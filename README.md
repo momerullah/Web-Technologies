@@ -11,6 +11,8 @@ In this part, a simple HTML personal biography page has been created using Boots
 
 The project utilizes local Bootstrap CSS, and the page has been styled using a custom CSS file, `cover.css`.
 
+You can access my Biography Page using: https://momerullah.github.io/Web-Applications/
+
 ### Part 2: JavaScript Exercises
 The goal for this part was to update the code in `hw1.js` to provide solutions for the exercises. The solutions have been tested using Jest, a JavaScript testing framework.
 
