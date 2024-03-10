@@ -4,7 +4,8 @@
   "description": "",
   "main": "hw1.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "http-server"
   },
   "author": "",
   "license": "ISC",
